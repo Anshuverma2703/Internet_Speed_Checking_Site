@@ -31,6 +31,6 @@ For support, email anshuverma2703@gmail.com or join our Slack channel.
 
 ## Deployment
 
-to deploy : 
+to deploy : https://famous-axolotl-df8bc5.netlify.app/
 
 
