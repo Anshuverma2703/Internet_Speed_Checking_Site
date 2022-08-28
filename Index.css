@@ -52,7 +52,7 @@ body{
 
 }
 @keyframes radarRotaion {
-    100%{ transform: rotate(720deg);}
+    100%{ transform: rotate(3600deg);}
     
 }
 .loader:before{
