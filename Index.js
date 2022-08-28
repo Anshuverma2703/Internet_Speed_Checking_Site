@@ -19,7 +19,7 @@ button.addEventListener("click",(e)=>{
         time_end = new Date().getTime();
         let timeDuration = (time_end - time_start)/1000;//seconds
         let LoadedBits = downloadSize*8;//bit
-        let totalSpeed = ((LoadedBits/timeDuration)/8/1024/1024).toFixed(2);
+        let totalSpeed = ((LoadedBits/timeDuration)/1024/1024).toFixed(2);
         document.getElementById('loaderContent').classList.remove("hide");
         document.getElementById('load').classList.add("hide");
         document.getElementById("contentvalue").classList.remove("hide");
