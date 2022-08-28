@@ -48,7 +48,7 @@ body{
     border-radius: 50%;
     /* background-color: red; */
     background: conic-gradient(rgba(1, 182, 190, 0.3) 0% , transparent 65%);
-    animation: radarRotaion 4s linear;
+    animation: radarRotaion 20s linear;
 
 }
 @keyframes radarRotaion {
